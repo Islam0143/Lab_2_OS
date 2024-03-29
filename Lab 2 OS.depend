@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1678837723 source:c:\users\islam\desktop\lab 2 os\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<string.h>
+	<sys/time.h>
+
